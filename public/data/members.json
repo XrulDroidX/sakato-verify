@@ -1,0 +1,14 @@
+[
+  {
+    "id": "001",
+    "nama": "Uji Coba",
+    "divisi": "Operasional",
+    "status": "Aktif"
+  },
+  {
+    "id": "002",
+    "nama": "Sampel Nonaktif",
+    "divisi": "Media",
+    "status": "Nonaktif"
+  }
+]
