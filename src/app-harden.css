@@ -1,0 +1,11 @@
+
+/* Prevent horizontal scroll on small screens */
+html, body { overflow-x: hidden; }
+* { box-sizing: border-box; }
+img, svg, canvas, video { max-width: 100%; height: auto; display: block; }
+
+/* Avoid shadow/tilt bleed */
+.container { max-width: 1440px; }
+.wrap-no-overflow { overflow-x: hidden; }
+
+/* Keep existing utilities */
